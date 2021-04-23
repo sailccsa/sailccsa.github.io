@@ -1,0 +1,13 @@
+main:
+  - title: "About Us"
+    url: /about-us/
+  - title: "Events"
+    url: /events/
+  - title: "Learning"
+    url: /learning/
+  - title: "Links For Sailors"
+    url: /links-for-sailors/
+  - title: "News"
+    url: /news/
+  - title: "Sailing"
+    url: /sailing/

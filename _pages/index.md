@@ -1,6 +1,7 @@
 ---
 title: Home
-menus: header
+permalink: /
+
 ---
 
 ## Oh Snap!

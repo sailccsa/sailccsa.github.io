@@ -1,5 +1,67 @@
 title: Creve Coeur Sailing Association
 description: Come Sail With Us!
-theme: jekyll-theme-cayman
-plugins:
-- jekyll-menus
+theme: minimal-mistakes-jekyll
+include: ["_pages"]
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+  # _about-us
+  - scope:
+      path: ""
+      type: about-us
+    values:
+      layout: single
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+  # _learning
+  - scope:
+      path: ""
+      type: learning
+    values:
+      layout: single
+  # _links-for-sailors
+  - scope:
+      path: ""
+      type: links-for-sailors
+    values:
+      layout: single
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+  # _sailing
+  - scope:
+      path: ""
+      type: sailing
+    values:
+      layout: single
+collections:
+  about-us:
+    output: true
+    permalink: /:collection/:path
+  events:
+    output: true
+    permalink: /:collection/:path
+  learning:
+    output: true
+    permalink: /:collection/:path
+  links-for-sailors:
+    output: true
+    permalink: /:collection/:path
+  news:
+    output: true
+    permalink: /:collection/:path
+  sailing:
+    output: true
+    permalink: /:collection/:path
+collections_dir: collections
