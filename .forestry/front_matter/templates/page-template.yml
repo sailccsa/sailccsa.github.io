@@ -5,6 +5,12 @@ fields:
 - type: text
   name: title
   label: title
+- name: menus
+  type: text
+  config:
+    required: false
+  label: menus
+  default: header
 pages:
 - about-us.md
 - contact.md
