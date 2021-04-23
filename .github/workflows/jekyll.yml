@@ -15,4 +15,4 @@ jobs:
       - name: Build and deploy
         uses: helaili/jekyll-action@v2
         with:
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
