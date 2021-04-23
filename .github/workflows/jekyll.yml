@@ -6,10 +6,13 @@ on:
       - master
 
 jobs:
-  github-pages:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Build and deploy
+        uses: helaili/jekyll-action@v2
         with:
           token: ${{ secrets.TOKEN }}
