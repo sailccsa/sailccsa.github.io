@@ -1,7 +1,8 @@
 title: Creve Coeur Sailing Association
 description: Come Sail With Us!
 theme: minimal-mistakes-jekyll
-include: ["_pages"]
+include: ["_pages", "_posts"]
+encoding: "utf-8"
 defaults:
   # _pages
   - scope:
@@ -45,6 +46,12 @@ defaults:
       type: sailing
     values:
       layout: single
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
 collections:
   about-us:
     output: true
@@ -64,4 +71,3 @@ collections:
   sailing:
     output: true
     permalink: /:collection/:path
-collections_dir: collections
