@@ -3,6 +3,8 @@ description: Come Sail With Us!
 theme: minimal-mistakes-jekyll
 include: ["_pages", "_posts"]
 encoding: "utf-8"
+plugins:
+  - jekyll-sitemap
 defaults:
   # _pages
   - scope:
