@@ -6,6 +6,10 @@ encoding: "utf-8"
 url: "https://www.sailccsa.com"
 plugins:
   - jekyll-sitemap
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: 'G-1VPFV206DC'
 defaults:
   # _pages
   - scope:
