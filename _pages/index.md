@@ -3,6 +3,9 @@ title: Home
 permalink: /
 
 ---
+## Race day number 1 and boatyard!
+Our first race of the season is quickly approaching on May 2nd and for our boatyard members, we're meeting on the 1st.
+
 ## Membership Forms
 Because navigation isn't clean and pretty yet, here's the membership forms you might be looking for:
 - [Membership](/assets/misc-files/CCSA-Membership-2021.pdf)
