@@ -2,4 +2,5 @@
 title: How To Sail
 
 ---
-This is the How To Sail page.
+Lessons are available locally thru the Edward Jones Family YMCA
+
