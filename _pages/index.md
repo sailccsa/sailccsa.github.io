@@ -4,11 +4,12 @@ permalink: /
 
 ---
 ## 2022 Season 
-Winter Social Feb 5, 2022
+Winter Social Feb 5, 2022- CANCELLED
 
 Boatyard April 2, 2022
 
 Join our Facebook Group at https://www.facebook.com/groups/112029055498260 
+
 
 ## Membership Forms
 here's the membership forms you might be looking for:
