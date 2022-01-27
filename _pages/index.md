@@ -54,6 +54,7 @@ Winter Social Feb 5, 2022- CANCELLED
 
 
 Join our mailing list at https://groups.google.com/forum/#!forum/ccsa-members. This is our primary method of communication.
+
 Join our Facebook Group at https://www.facebook.com/groups/112029055498260 
 
 
