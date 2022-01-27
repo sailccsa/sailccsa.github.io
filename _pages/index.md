@@ -1,6 +1,7 @@
 ---
 title: Home
 permalink: /
+![ccsalogo](https://user-images.githubusercontent.com/83256703/151399067-b67b9a79-9a22-4df4-8100-97e05235a1cc.png)
 
 ---
 ## 2022 Season 
