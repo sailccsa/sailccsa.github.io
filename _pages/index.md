@@ -1,9 +1,10 @@
 ---
 title: Home
 permalink: /
-![ccsalogo](https://user-images.githubusercontent.com/83256703/151399067-b67b9a79-9a22-4df4-8100-97e05235a1cc.png)
 
 ---
+![ccsalogo](https://user-images.githubusercontent.com/83256703/151399296-df82a540-eb0b-405e-bcf6-b8d65615b529.png)
+
 ## 2022 Season 
 Winter Social Feb 5, 2022- CANCELLED
 
