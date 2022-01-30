@@ -2,7 +2,7 @@
 title: How To Race
 
 ---
-Rules and Race Instructions
+Race Instructions
 ![ccsalogo](https://user-images.githubusercontent.com/83256703/151713648-5c53460a-a48f-4d0f-b428-244be070f6ef.png)
 
 Our Sunday afternoon races are the main activity and focus of Creve Coeur Sailing Association. CCSA provides an organized way for boat owners and their crew to compete in a safe and fun environment. 
@@ -13,7 +13,8 @@ Over the summer CCSA stages about fourteen race days with three races per day, f
 
 St. Louis County Parks Division permits us to use the park to set up our onshore activities and to run our races out on the lake. On a typical Sunday we cordon off the south end of the lake’s eastern parking lot near the ramp at the bottom of the hill on Marine Drive, and generally have exclusive use of that area. There are about a dozen marked off spaces long enough for trailers. Skippers with beachable boats can park near the beach just west of the flagpole. Everyone else has to park where they can. It’s tight when we have more than twenty boats, so coming early pays off.  Be flexible in the main area and try not to park in a manner that blocks traffic.  Share the space with others.
 
-How Races Are Organized
+## How Races Are Organized
+
 The official start signal of the first race is at 2:00 p.m., so skippers need to have their boat rigged and on the water by 1:45 at the latest, to make the first race. Before racing, skippers are also required to go to the Race Committee tent and register their boat. 
 There is no formal “Skippers Meeting” before the races, so you must get information about the course and the races for that day at the Race Committee desk.  As part of the sign-in process, you acknowledge the Sailing Instructions for the CCSA and acknowledge your risk in sailing.  If you do not feel comfortable sailing, it would be prudent to sit it out or ask for more experienced assistance.
  
@@ -26,7 +27,7 @@ Having two fleets and two starts usually  means shorter race times and more raci
 New sailors should pay attention to these rules.  Don’t worry, CCSA members will answer any questions and guide you along the way. 
 For more detailed information on how the races are organized and the rules for competing, check out the CCSA “SAILING INSTRUCTIONS”.
 
-What To Do On Race Day
+## What To Do On Race Day
 
 Prior Planning and Practice - formulas that help you succeed on race days. 
 Here is a brief summary of what you need to do on race day:
@@ -39,23 +40,23 @@ d)	A stopwatch to time your starts.
 A basic understanding of how CCSA runs its races is written out in the CCSA Sailing Instructions.
 Although you can sail without a thorough knowledge of the Sailing Instructions, skippers who read these instructions will be much better prepared before they start racing.
 
-Arrive at the lake as early as you can.
+## Arrive at the lake as early as you can.
 1)	Set up your boat in the parking lot. Get the mast up, the sails on and all your gear on board, but do not raise the sails yet unless absolutely necessary.  If you do raise the sails, make sure the sheets are free.
 2)	Register at the Race Committee Tent. Check out the diagram for today’s race course and ask any questions you have about the race. If you do not register with your sail number and boat type, you will not be scored in any race.  Indicate if you need crew or would be willing to give “Public Relations” ride-along between heats.
 3)	Move your boat to the ramp and launch it. Spend as little time in the ramp as possible so that all the boats can get to the course in time. Tie your boat up on the "windward" dock so that it hangs off the dock and can be easily launched. Go to the farthest end of the dock so boats behind you will have room to tie up.
 4)	Pull up your sails, get the crew on board and proceed underway.  
 If you have time—take a practice sail with your crew to see that they know all their duties and that the boat’s rigging is in order.  Most of the experienced sailors are on the water 30 minutes before their first race, double-checking their set-ups, learning the wind variables for the day and getting warmed up mentally for the fun of racing.
 
-Racing !
+## Racing !
 The race sequence begins when the Race Committee gives a warning signal of several short blasts on a horn. This means that in approximately one minute the official count down to the race will begin.
 
-There are two starts: 
+## There are two starts: 
 1)	Blue Fleet - the Blue Fleet of faster boats goes first. Boats in the Red Fleet must stay well clear of the area above and below the Start Line in order to give the Blue Fleet boats room to maneuver for their start.  Boats who are not racing (either not in their prestart sequence or enjoying the day  by sailing, need to stay clear of boats racing.
 
 2)	Red Fleet - the Red Fleet pre-start commences at the Start Signal of the Blue fleet.  Their five minute countdown sequence begins at the very moment that the Blue Fleet “Start” signal is sounded.
 
 
-Here is a chart of the start signals: 
+## Here is a chart of the start signals: 
 TIME	SIGNAL	MEANING
 Aproximately1 min. before start of countdown.	Repeated blasts on the horn.	Attention!!! The 1st race start sequence is about to begin.
 5:00 min. Countdown starts.	Blue flag goes up, 1 horn blast.	Blue Fleet skippers start stopwatches- 5 min. to start.
@@ -69,12 +70,13 @@ Aproximately1 min. before start of countdown.	Repeated blasts on the horn.	Atten
 The start of the race is very important and often determines the winner of a race. Follow the Rules Of Racing regarding “Starts” and get to “Clear Air” as soon as possible.  Avoid other boats at all costs - a collision “at sea” will ruin your day.
 Next, sail the course for your fleet as pointed out in the diagram and instructions given at the Race Committee.  Generally, the course doesn’t change between races but be aware of signals made from the shore or from the designated Committee boat afloat.
 CCSA members are encouraged to learn at least The Basic Rules Of Racing as described in the CCSA Sailing Instructions. Out on the course skippers need to know these rules to sail fairly and to use the rules in their tactical decisions.
-Here are some tips for new sailors.
+
+## Here are some tips for new sailors.
 
 1)	If you are uncertain about the course, just follow the boats in your fleet.
 2)	Don’t try to win the race. Focus on catching and then passing the boat in front of you. Gradually, as your skills improve, your goal should be to move up through your fleet.
 3)	Work at getting better. Read books and articles on sailing and sailboat racing. Check out videos and online resources. Get the best sailors to sail with you. Learn the Rules Of Racing. Ask questions!
-4)	When you cross the finish line, the Race Committee will record your “Elapsed Time” for that race. Within the next few days after all racing is concluded,  the “Corrected Time” for your boat, based on its Portsmouth Number (USPN,) will be calculated, and your “Rank” or where you finished in relation to other boats in your fleet will be posted on the CCSA web site or Yahoo Group.
+4)	When you cross the finish line, the Race Committee will record your “Elapsed Time” for that race. Within the next few days after all racing is concluded,  the “Corrected Time” for your boat, based on its Portsmouth Number (USPN,) will be calculated, and your “Rank” or where you finished in relation to other boats in your fleet will be posted on the CCSA web site or Google Group.
 
 The Race Committee tries to get in three races on race days or more if possible. If the wind is light, fewer races may be run. If the wind is judged to be too strong by the Race Committee in consultation with senior CCSA officers, racing may be terminated at any time. As a general benchmark, if the wind speed is consistently over 15mph or gusting over 20mph, racing will be canceled in the interests of safety.
 No races will START after 4pm, to allow all competitors and the Race Committee an opportunity to derig their boats, socialize and unwind while there is still a lot of daylight.
@@ -84,19 +86,19 @@ Remember, Sailing is Fun.  Racing is Fun.  Keep in mind that people make mistake
 
 Sailboat races are the main activity and focus of Creve Coeur Sailing Association (CCSA). We have organized our races to accommodate experienced sailors and newcomers alike. To keep the races competitive and fun for all our members, we do not have a formal Protest Committee, and we use only the most basic right of way and racing rules. However, we encourage all members to learn all of the U.S. Sailing Rules of Racing to enhance their racing skills.
 
-SCHEDULE OF RACES
-The CCSA Calendar which gives the dates for all our sailboat races for the year will be made available in the CCSA newsletter, posted on the CCSA Yahoo Group Calendar, listed on the CCSA Web Site, and can be picked up at the Race Committee desk.
+## SCHEDULE OF RACES
+The CCSA Calendar which gives the dates for all our sailboat races for the year will be made available in the CCSA newsletter, posted on the CCSA Google Group, listed on the CCSA Web Site, and can be picked up at the Race Committee desk.
 
-ELIGIBILITY
+## ELIGIBILITY
 The CCSA racing series is open to members of the Creve Coeur Sailing Association and their guests.
 
-CLASS FLEETS
+## CLASS FLEETS
 Boats that are members of organized Class Associations will follow their One-design Class Rules regarding equipment. CCSA members are not required to join Class Associations for their type of boats in order to participate.
 
-DISCLAIMER OF LIABILITY
+## DISCLAIMER OF LIABILITY
 Competitors participate in the CCSA series entirely at their own risk.  The US Sailing Association and International Sailing Association Racing Rules of Sailing, Rule 4 – “Decision to Race: The responsibility of a boat’s decision to participate in a race or to continue racing is hers alone.”  The CCSA will not accept any liability for material damage, personal injury or death sustained in conjunction with or prior to, during, or after racing or any other CCSA event.
 
-FURTHER INFORMATION
+## FURTHER INFORMATION
 For further information please contact the CCSA Commodore.
 
 
@@ -104,7 +106,7 @@ For further information please contact the CCSA Commodore.
 
 
 
-The Race Committee
+## The Race Committee
 
 The Race Committee is in charge of running the races. The Committee is made up of CCSA members who volunteer to serve on a rotating basis.  They determine the course to be sailed based on the wind direction and conditions at the lake.  Prior to the races, they check-in competitors by providing registratio/sign-up sheets, and provide information about the course, and any changes to the Sailing Instructions.
 When it is time to begin racing, the Race Committee will provide the “Signals Made Ashore” which provides the starting sequence for each fleet of boats. Signals will consist of different colored flags, horn blasts, and a megaphone for hailed instructions. All visible signals take precedence over audible signals.
@@ -117,7 +119,7 @@ As a best safety practice, the CCSA will not start a race when the wind speed is
 
 No race will START after 4 pm, to allow all CCSA participants opportunity to relax and de-rig their craft during ample daylight.
 
-Competitors Steps On Race Day
+## Competitors Steps On Race Day
 Step 1:	Arrive Early:  There are many advantages to arriving early at the lake on race day. There will be plenty of time to assemble your boat and spot any problems. Think of the parking lot as “Sail Boat 101”. CCSA’s more experienced sailors may assist or answer questions and help solve problems. Beachable boats such as Sunfish and Lasers can be driven to the beach area North of the Race Committee tent for assembly and launching. Everyone needs to take special care when crossing the paved path which runs through the launching area.
 Step 2:	Set Up Your Boat:
 Assemble boats in their parking spots. Boats should be “Mast up” with sails on but NOT launched with sails raised.  Best practice is to wait to raise sails until a boat is tied to the dock and ready to sail away.  If it is necessary to hoist, ensure sheets are free to run.   Boats have fallen off the trailers when sails are raised. 
@@ -147,56 +149,58 @@ The decision to launch is solely the responsibility of the skipper of each boat.
 The Race Committee may require the wearing of approved personal flotation devices as a condition of participation.  The Race Committee may also request competitors retire from racing if they feel safety cannot be adequately observed or if the competitors represent a danger to themselves or others.
 When the YANKEE flag (red diagonal stripes on yellow background) is displayed and accompanied by one horn blast, competitors and their crews must wear an approved personal flotation device at all times while afloat. This applies to CCSA boats not racing as well as boats racing.
 
-RACING 
+## RACING 
 A boat is racing from her preparatory signal until she finishes and clears the finishing line and marks or retires, or until the race committee signals a general recall, postponement or abandonment.
 
-EQUIPMENT AND MEASUREMENT CHECKS
+## EQUIPMENT AND MEASUREMENT CHECKS
 A boat or equipment may be inspected at any time for compliance with its class rules and sailing instructions. On the water, a boat can be instructed by a race committee member to proceed immediately to a designated area for inspection.
 
-REPLACEMENT OF CREW OR EQUIPMENT
+##  REPLACEMENT OF CREW OR EQUIPMENT
 Substitution of competitors is allowed at any time. Substitution of damaged or lost equipment is also allowed at any time.
 
-ELECTRONIC DEVICES
+## ELECTRONIC DEVICES
 Cell phones may be carried on boats for safety and personal communication, but may not be used in any way to gain advantage during races.
 
-The Race Course
+## The Race Course
 The course, including the approximate angles between legs, the order in which marks are to be passed, and the side on which each mark is to be left, will be posted at the race committee desk prior to the first race of the day, as part of the Notice to Competitors.
 
-SIGNALS MADE AFLOAT/ SIGNALS MADE ASHORE.  Course changes may be announced between races or during the race. The race committee will attempt to hail each boat to announce any change of course if practical.  It is the responsibility of each competitor to sail by the race committee desk to determine if any changes have been made to the course for the next race.  However, do not obstruct the Race Committee or interfere with boats racing.   Signals made afloat by the on-water Race Committee (e.g. C-Dory) will stand for that race and every subsequent race unless Signals Made Ashore change the course.   A “C” Charlie flag or a “S” Sierra flag may be flown as necessary.  
+## SIGNALS MADE AFLOAT/ SIGNALS MADE ASHORE.  
+Course changes may be announced between races or during the race. The race committee will attempt to hail each boat to announce any change of course if practical.  It is the responsibility of each competitor to sail by the race committee desk to determine if any changes have been made to the course for the next race.  However, do not obstruct the Race Committee or interfere with boats racing.   Signals made afloat by the on-water Race Committee (e.g. C-Dory) will stand for that race and every subsequent race unless Signals Made Ashore change the course.   A “C” Charlie flag or a “S” Sierra flag may be flown as necessary.  
   
-TYPICAL COURSES    CCSA has several courses to choose from, including a triangular course (Olympic), a triangular course with an additional windward/leeward leg (Olympic-Modified), Windward-Leeward and combination of others.  The course style will vary.  Generally, all starts are upwind, unless there is a wind-shift in the last minute of the Start Sequence.  If the wind-shifts in the last minute of the start sequence, competitors may be starting off-the-wind or the Race Committee may stop the start and abandon the race.  Course design may change between races depending on wind conditions.
+## TYPICAL COURSES   
+CCSA has several courses to choose from, including a triangular course (Olympic), a triangular course with an additional windward/leeward leg (Olympic-Modified), Windward-Leeward and combination of others.  The course style will vary.  Generally, all starts are upwind, unless there is a wind-shift in the last minute of the Start Sequence.  If the wind-shifts in the last minute of the start sequence, competitors may be starting off-the-wind or the Race Committee may stop the start and abandon the race.  Course design may change between races depending on wind conditions.
 
-NOTICES TO COMPETITORS
+## NOTICES TO COMPETITORS
 Notices to competitors will be posted on the marker board located at the race committee desk on race days.
 
-CHANGES TO SAILING INSTRUCTIONS
+## CHANGES TO SAILING INSTRUCTIONS
 Any change to the sailing instructions will be posted on the Notice to Competitors marker board located at the race committee desk 30 minutes before the first start on the day it will take effect.
 
-CHANGING THE POSITION OF MARKS
+## CHANGING THE POSITION OF MARKS
 
 Sometimes, due to wind shifts in direction or changes in wind speed, marks already set on the course will be moved at the direction of the Race Committee. The change will be signaled before the leading boat has begun the leg, although the mark may not yet be in the new position. All additional marks, not yet rounded, may be relocated without further signaling to maintain the course configuration. A mark that has been rounded may not be moved by the Race Committee unless it is to reposition it after it becomes adrift.   Signals afloat may be made by the C-Dory if marks are being substantially moved. 
 
-STARTING LINE
+## STARTING LINE
 The starting line is set between two marks forming a start/finish gate located near the CCSA tent. Two red buoys shall be used to mark both the starting and finishing line of the course. All boats shall stay clear of the area between the Race Committee Race Desk and the STARTING LINE to permit the Race Committee to properly monitor the course and vessels at the starting area. Vessels that do not stay clear may be disqualified.
 
-STARTING/FINISHING AREA
+## STARTING/FINISHING AREA
 The starting area is an imaginary box extending out around the Start Line. One side of the box begins at the shore and extends beyond the far end of the Start Line by half the length of the Start Line. The other side of the box extends half the length of the Starting Line in back of the Line and half the Starting Line length in front of the line. Competitors in their prestart sequence or start sequence may sail in any area outside the STARTING/FINISHING AREA but will not be able to assess a protest against another vessel when that vessel is not in the STARTING/FINISHING AREA.
 
 Competitors can legally pass through the Start/Finish line anytime after their start. All competitors not in their prestart or start sequence must stay clear of the STARTING AREA. All competitors finished should immediately clear the FINISHING AREA, staying clear of boats racing. 
 
 All competitors are to stay completely clear of the area between the Race Committee and the entire start-finish line while racing is underway.  Boats that continue to obstruct a clear view of the Race Committee and the FINISHING AREA may be disqualified.  Do NOT dock in front of the Race Committee at any time while racing is being conducted. 
 
-MARKS
+## MARKS
 Marks 1, 2, and 3 will be indicated by large, round, orange buoys. The start/finish gate will be indicated by small, round, red buoys. If a stand-off mark is used, the stand-off mark will be a small, round, orange buoy.
 
-THE FINISH
+## THE FINISH
 The finishing line will be the same gate as the starting gate; finishes may be upwind or downwind, competitors are to review the course board for directions on the finish line orientation.
 
 
 
-Timing of the Races
+# Timing of the Races
 
-SIGNALS MADE ASHORE
+## SIGNALS MADE ASHORE
 
 The Race Committee will communicate with competitors out on the lake by means of flags, a horn and a megaphone. When a sound signal is made at the same time as a flag signal, the flag signal always takes precedence. The absence of a sound signal shall not alter the meaning or effect of a flag signal.
 The Race Committee will make a warning signal using a series of short blasts on the horn to get the attention of competitors and signal that the countdown to a race is about to begin, or that a change to the Sailing Instructions has been made.
@@ -204,11 +208,11 @@ The scheduled time of the warning signal for the first race of each day is 1:55p
 
 The warning signal for each succeeding race will be made as soon as the Race Committee decides that the present race is completed. To alert boats that another race will begin soon, a series of short blasts will be sounded. Competitors are urged to remain clear of the finish line, but within the general area between races.  Boats that are not racing (e.g. finished) may not interfere with boats that are racing.
 
-FLEETS
+## FLEETS
 Competitors will be divided into two race day fleets, based on the typical speed for their type of boat, called a “Portsmouth Handicap Number”. Boats with a PHN of 96.5 or less are in the Blue Fleet, and boats greater than 96.5 are in the Red Fleet. Competitors not previously assigned to a fleet will be assigned one when they register. The Red Fleet start will be indicated by a solid red flag, the Blue Fleet start by a solid blue flag. Blue Fleet of faster boats goes first. The purpose of dividing the boats into slower and faster fleets is to increase the number of races. Typically the faster boats go around the course twice as many times as the slower fleet. This means the two fleets will finish at roughly the same time with less time waiting for the next race.
 One design fleets may be organized and compete within the Association. A minimum of five one design boats must be registered in order to constitute a fleet. Members wishing to organize a one design fleet must appoint a fleet captain.
 One design fleets will compete within the Blue or Red Fleet as appropriate. A separate start and/or course will not be provided for one design fleets as a general format unless the One Design Fleet does not wish to be scored in the total or season CCSA series. 
-
+## 
 The Start
 Races will be started as follows:
 TIME	SIGNAL	MEANING
@@ -228,10 +232,10 @@ A boat starting later than 5 minutes after her starting signal will be scored Di
 Boats whose class warning signal has not been made shall avoid the starting area.
 
 
-Basic Rules of Racing
-Below is a summary of the sailing rules that apply most often on the race course. This summary is intended as an aid to sailors and not as a substitute for the Racing Rules of Sailing, a copy of which all racing sailors should own. A copy of the Racing Rules of Sailing 2013 - 2016 can be downloaded from the ISAF Website at http://www.sailing.org/documents/racingrules/index.php.
+## Basic Rules of Racing
+Below is a summary of the sailing rules that apply most often on the race course. This summary is intended as an aid to sailors and not as a substitute for the Racing Rules of Sailing, a copy of which all racing sailors should own. 
 
-Right-of-Way Rules
+## Right-of-Way Rules
 PORT-STARBOARD
 Port-tack boats must keep clear of starboard-tack boats. (Rule 10) Note: You are "keeping clear" of another boat when she doesn’t have to alter course to avoid you.
 
@@ -274,7 +278,7 @@ If you break a rule while racing, or if you hit a mark, do one complete 360° tu
 
 
 
-Penalties
+## Penalties
 A competitor in violation of the rules during a race may exonerate themselves by doing one of the following:
 Get away from other boats and do one 360-degree turn as soon as possible after the violation.
 Taking a Scoring Penalty of one place.
@@ -282,10 +286,10 @@ Retire from the race.
 The race committee may disqualify a boat that fails to exonerate itself.
 A boat that has taken a penalty of one place or retired shall notify the race committee as soon as possible on the day of the race.
 
-Finishing The Race
+## Finishing The Race
 As each competitor crosses the Finish Line, the Race Committee will give one short horn blast to signal that they have noted a boat finishing and recorded its’ elapsed time.
 
-TIME LIMITS FOR RACES
+## TIME LIMITS FOR RACES
 On light wind days, the Race Committee will use time limits listed to abandon racing. The Committee will use the time limits to score as DNF competitors who do not finish within the time limits.
 FLEET	Minimum Time To Reach First Mark	Minimum Time To Finish Race
 Blue	20 min.	60 min.
@@ -294,7 +298,7 @@ Times indicated are times after the respective fleet starts. If no boat has pass
 Individual boats failing to finish within 30 minutes after the first boat in their respective fleet finishes will be scored - Did Not Finish.
 
 
-Scoring
+## Scoring
 The scoring system is as follows:
 A competitor must complete at least ten races during a year’s racing season in order to be eligible for prizes.
 A Modified high-point average system is used with participants weighting for each position on the course.
@@ -303,10 +307,10 @@ Seasonal series (spring, summer, fall) may be announced, using either set dates 
 Class finishes for recognized one design classes may be recorded separately. A minimum of three boats must start for a race to be scored within a one-design class. It is the responsibility of the one design fleet captains to maintain records of participation and race scoring for their respective fleets.
 DNF will not be scored as points but will be counted towards awards eligibility.
 
-Prizes
+## Prizes
 Prizes will be awarded to competitors based on their performance over the season as determined by the awards committee.  One design class prizes may also be awarded at the discretion of the awards committee.
 
-Disagreements Between Competitors
+## Disagreements Between Competitors
 
 Competitors in the sport of sailing are governed by a body of rules that they are expected to follow and enforce.  Sailing in particular relies on self-enforcement and a modern-era Corinthian-spirit code of conduct.  The fundamental principle of sportsmanship is that when competitors break a rule they will promptly take a penalty or retire. It is hoped that all competitors will make an effort to learn the rules and apply them conscientiously to the best extent of their knowledge. 
 
@@ -318,7 +322,7 @@ Disagreements will not be subject to a hearing by a formal protest committee per
 
 
 
-Portsmouth Handicap Numbers for common CCSA boats
+## Portsmouth Handicap Numbers for common CCSA boats
 
 Red Fleet- slower with a PHN greater than 96.5
 Laser radial	96.7
