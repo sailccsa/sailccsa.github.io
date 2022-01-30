@@ -2,7 +2,7 @@
 title: How To Race
 
 ---
-
+Rules and Race Instructions
 ![ccsalogo](https://user-images.githubusercontent.com/83256703/151713648-5c53460a-a48f-4d0f-b428-244be070f6ef.png)
 
 Our Sunday afternoon races are the main activity and focus of Creve Coeur Sailing Association. CCSA provides an organized way for boat owners and their crew to compete in a safe and fun environment. 
