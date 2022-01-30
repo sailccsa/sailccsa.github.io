@@ -6,18 +6,15 @@ collection: learning
 entries_layout: grid
 classes: wide
 ---
-Sailing Resources
+Sailing Resources-Local on the water programs.
 
-Lessons are available at Creve Coeur Lake thru the Edward Jones YMCA May thru Oct. 
+Lessons are available at Creve Coeur Lake thru the Edward Jones Family YMCA May to October. Use the How to Sail link below for more information.
 
-Contact Trish Ribaudo thru https://forms.gle/29F2ZppmHuC3FTJG8.
+Carlyle Sailing Association https://csa-sailing.org/
 
-https://www.csa-sailing.org
+Ozark Yacht Club https://ozarkyachtclub.com/
 
-https://www.ussailing.org/education/adult/first-sail/sailing-basics/
+Odyssey Sailing https://www.odysseysailing.com/
 
-https://asa.com/free-online-sailing-course/
-
-https://asa.com/sailing-challenge-app/
 
 
