@@ -12,14 +12,11 @@ This is our primary method of communication.
 
 Join our Facebook Group at https://www.facebook.com/groups/112029055498260 
 
+Contact Us at https://www.sailccsa.com/about-us/contact 
+
 
 ## Membership Forms
-here's the membership forms you might be looking for: 2022 coming soon
-- [Membership]
-- [Boatyard]
-
-
-
+2022 coming soon to the membership page at https://www.sailccsa.com/learning/membership
 
 
 
