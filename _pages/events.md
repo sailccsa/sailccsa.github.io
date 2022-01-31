@@ -9,7 +9,7 @@ classes: wide
 
 ![ccsalogo](https://user-images.githubusercontent.com/83256703/151712981-36a9809c-a015-4489-8f61-79a9fcdff726.png)
 
-2022 Season
+# 2022 Season
 
 ~~Winter Social Feb 5, 2022~~- CANCELLED
 
