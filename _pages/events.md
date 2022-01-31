@@ -11,7 +11,7 @@ classes: wide
 
 2022 Season
 
-Winter Social Feb 5, 2022- CANCELLED
+~~Winter Social Feb 5, 2022~~- CANCELLED
 
 2 Apr 2022 Boatyard 
 
