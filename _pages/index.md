@@ -7,16 +7,16 @@ permalink: /
 
 ## 2022 Season Dates are available now on the Events page. 
 
-Join our mailing list at https://groups.google.com/forum/#!forum/ccsa-members. 
+Join our mailing list at [Google Group] (https://groups.google.com/forum/#!forum/ccsa-members). 
 This is our primary method of communication.
 
-Join our Facebook Group at https://www.facebook.com/groups/112029055498260 
+Join our [Facebook Group] (https://www.facebook.com/groups/112029055498260) 
 
-Contact Us at https://www.sailccsa.com/about-us/contact 
+[Contact Us] (https://www.sailccsa.com/about-us/contact) 
 
 
 ## Membership Forms
-2022 coming soon to the membership page at https://www.sailccsa.com/learning/membership
+2022 coming soon to the [membership page] (https://www.sailccsa.com/learning/membership)
 
 
 
