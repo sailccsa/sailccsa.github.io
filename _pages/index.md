@@ -3,25 +3,22 @@ title: Home
 permalink: /
 
 ---
-![ccsalogo](https://user-images.githubusercontent.com/83256703/151399296-df82a540-eb0b-405e-bcf6-b8d65615b529.png)
+![ccsalogo](/assets/images/CCSA-Logo-Horizontal.png)
 
-## 2022 Season Dates are available now on the Events page. 
+# 2022 Season Dates are available now on the [Events](/events/) page. 
 
-Join our mailing list at [Google Group] (https://groups.google.com/forum/#!forum/ccsa-members). 
+Join our mailing list at [Google Groups](https://groups.google.com/forum/#!forum/ccsa-members){:target="_blank"}{:rel="noopener noreferrer"}. 
 This is our primary method of communication.
 
-Join our [Facebook Group] (https://www.facebook.com/groups/112029055498260) 
+Join our [Facebook Group](https://www.facebook.com/groups/112029055498260){:target="_blank"}{:rel="noopener noreferrer"}.
 
-[Contact Us] (https://www.sailccsa.com/about-us/contact) 
-
-
-## Membership Forms
-2022 coming soon to the [membership page] (https://www.sailccsa.com/learning/membership)
+[Contact Us](https://www.sailccsa.com/about-us/contact){:target="_blank"}{:rel="noopener noreferrer"}
 
 
-
-
-![IMG_7658](https://user-images.githubusercontent.com/83256703/147415932-606119f0-eb8b-4ff5-921a-20256ba6cf6b.jpg)
+# Membership Forms
+2022 membership forms are available on the [membership page](/learning/membership.html).
 
 
 
+
+![sailboat racing](/assets/images/racing.jpeg)
