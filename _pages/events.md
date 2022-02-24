@@ -30,7 +30,7 @@ classes: wide
 * 28 AUG 2022 SAILING RACE DATE #9
 * 3 Sep 2022 Boatyard
 * 11 SEP 2022 SAILING RACE DATE #10
-* 18 SEP 2022 Whale of a Sail / Carlyle Sailing Association (register through CSA)
+* 18 SEP 2022 Whale of a Sail / Carlyle Sailing Association [Whale web page](https://csa-sailing.org/The_Whale.html){:target="_blank"}{:rel="noopener noreferrer"}
 * 1 Oct 2022 Boatyard
 * 2 OCT 2022 SAILING RACE DATE #11
 * 16 OCT 2022 SAILING RACE DATE #12
