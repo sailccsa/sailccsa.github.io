@@ -9,6 +9,8 @@ classes: wide
 
 ![ccsalogo](https://user-images.githubusercontent.com/83256703/151712981-36a9809c-a015-4489-8f61-79a9fcdff726.png)
 
+Follow our [event calendar](https://calendar.google.com/calendar/u/2?cid=MWZxbGxzZ2dscThuamc4dWxlNzgzdGxoZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to automatically see all our events!
+
 # 2022 Season
 
 * ~~Winter Social Feb 5, 2022~~ CANCELLED
