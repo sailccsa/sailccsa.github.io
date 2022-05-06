@@ -8,6 +8,8 @@ classes: wide
 ---
 Sailing Resources-Local on the water programs.
 
+![ymcalogo](https://user-images.githubusercontent.com/83256703/167182152-3c2e45e4-ba3e-4b3f-875c-cdf4e2163397.png)
+
 Lessons are available at Creve Coeur Lake thru the Edward Jones Family YMCA May to October. Use the links below to sign up online or you can call 314 439-9622 to register over the phone. Semi-private is for parent/child, couples, friends, and families; private is for one on one instruction. 
 
 [Private Lesson](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?program_id=TMP12156&offering_id=SES838988&location_id=B210&filter=H4sIAAAAAAAEAG1Sy27DIBD8lz07EiZNqnLsN-QWVYjA2l3VhghwIyvKvxfs-NVW8gHPLLOzs9xBBekqEHdonUEQ4LGmEL2K5Kx0Wnc-yAvGG6KFAkJUPqYqzjjfscOOHU9lKV72grHEojUrrixPfC8Ob-mDRwFaRayd7yWZAMJ2TVNA4_TYaMDO8M5LBh8FuKpCT7aWsb9iZhK2MZZxELwAsrrpDEqySkf6RvlsQ_lapZqA_9RMbZcSo_qcQ-qKZjIXqUXpla0nByZJb4AL-fgpMzxPNDunWefqXe1Vu0K-sL85n0eGoKiBxWKlNMaER9_h2sFMnO_zDthhnXpaw5Dzwpd8wx__8K-bre0H_nfQy8yzhefqqKWkwll6FC7rnWEXtPOYFK1qcXosg0Leqaoi-um2dm0OKThn5x20OGbExmNnKY7_jx_Y8ylMpgIAAA2) One-on-One, 2 hour on the water plus 1 hour rigging. Private Sailing Lesson with certified Sailing Instructor at Creve Coeur Lake. $150-190
@@ -16,11 +18,11 @@ Lessons are available at Creve Coeur Lake thru the Edward Jones Family YMCA May 
 
 Use the How to Sail link below for more information.
 
-Carlyle Sailing Association https://csa-sailing.org
+[Carlyle Sailing Association] (https://csa-sailing.org)
 
-Ozark Yacht Club https://ozarkyachtclub.com/
+[Ozark Yacht Club] (https://ozarkyachtclub.com/)
 
-Odyssey Sailing https://www.odysseysailing.com/
+[Odyssey Sailing] (https://www.odysseysailing.com/)
 
 
 
