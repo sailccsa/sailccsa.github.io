@@ -18,11 +18,11 @@ Lessons are available at Creve Coeur Lake thru the Edward Jones Family YMCA May 
 
 Use the How to Sail link below for more information.
 
-[Carlyle Sailing Association] (https://csa-sailing.org)
+Carlyle Sailing Association https://csa-sailing.org
 
-[Ozark Yacht Club] (https://ozarkyachtclub.com/)
+Ozark Yacht Club https://ozarkyachtclub.com 
 
-[Odyssey Sailing] (https://www.odysseysailing.com/)
+Odyssey Sailing https://www.odysseysailing.com
 
 
 
