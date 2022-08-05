@@ -20,8 +20,6 @@ Learn to Race if you have some sailing experience and are interested in using a 
 
 Group Sailing Events 1pm to 7pm a small group sailing class for up to 3 people $140/180. The boats used will be sunfish so students must be able to get out of a pool from deep water without a ladder and capable of lifting the hulls on and off the trailer.
 
-[August 13, 2022](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?offering_id=SES852232&program_id=TMP12156&location_id=B210&filter=H4sIAAAAAAAEAG1Sy26DMBD8lz0TyTjKo_6HSj1wQ5Xl2Au1iu3INo1QlH-vHQKEphIHmNmdnZ3lCiJw1wC7gnEKgYHHVofoRdTOcidl7wM_YbwgWiggROFjqqKE0g05bOixKg-M7hghiUWrZu64IbSiW7Z7Sw_cCpAiYuv8wLUKwGzfdQV0To6DnjDXNOi1bXkczpjQ-rNYm8o4MFqAtrLrFXJthYz6B_ljhM5tjegC_lMzjVxKlBhyBmkqqslE1Aa5F7adHKgkvQJO2scvnuFX53rWOXvXemHuSA3V-0dJy90eUv83Dhfnl7Uno42QGBMafY_PPmaivs5XIKvcy3JMeuFLuuL3L_xhdbftnf8b97L5bOFxPG10UqEk_RYu69Wj8L0jqVphMG8qmoh-apLO5ISCc3Y-gMExIDK-9lbH8fv2Cw7fgB2fAgAA0)
-
 [August 27, 2022](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?offering_id=SES852231&program_id=TMP12156&location_id=B210&filter=H4sIAAAAAAAEAG1Sy26DMBD8lz0TyTjKo_6HSj1wQ5Xl2Au1iu3INo1QlH-vHQKEphIHmNmdnZ3lCiJw1wC7gnEKgYHHVofoRdTOcidl7wM_YbwgWiggROFjqqKE0g05bOixKg-MHhghiUWrZu64IbSiW7Z7Sw_cCpAiYuv8wLUKwGzfdQV0To6DnjDXNOi1bXkczpjQ-rNYm8o4MFqAtrLrFXJthYz6B_ljhM5tjegC_lMzjVxKlBhyBmkqqslE1Aa5F7adHKgkvQJO2scvnuFX53rWOXvXemHuSA3V-0dJy90eUv83Dhfnl7Uno42QGBMafY_PPmaivs5XILvn3MtyTHrhS7ri9y_8-m7bO_837mXz2cLjeNropEJJ-i1c1qtH4XtHUrXCYN5UNBH91CSdyQkF5-x8AINjQGR87a2O4_ftFzCeWnefAgAA0)
 
 
