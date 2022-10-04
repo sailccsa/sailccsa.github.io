@@ -14,6 +14,8 @@ Join our [Facebook Group](https://www.facebook.com/groups/112029055498260){:targ
 
 [Contact Us](https://www.sailccsa.com/about-us/contact){:target="_blank"}{:rel="noopener noreferrer"}
 
+[CCSA Race Videos](https://www.youtube.com/channel/UCMnuR6kvxxJyxbuaO639EBQ)
+
 
 # Membership Forms
 2022 membership forms are available on the [membership page](/learning/membership.html).
