@@ -16,7 +16,7 @@ Race Dates- Set Up starts at noon, races start at 2pm. No races start after 4pm 
 
 ![IMG_7617](https://user-images.githubusercontent.com/83256703/151710719-0f5f98c3-125c-47d2-b65c-16cfc0c2465a.jpg)
 
-#**Current and Past Commodores**
+**Current and Past Commodores**
 
 2023 Todd Merrill
 
