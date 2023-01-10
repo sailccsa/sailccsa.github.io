@@ -20,8 +20,19 @@ Learn to Race if you have some sailing experience and are interested in using a 
 
 Group Sailing Events 1pm to 7pm a small group sailing class for up to 3 people $140/180. The boats used will be sunfish so students must be able to get out of a pool from deep water without a ladder and capable of lifting the hulls on and off the trailer.
 
-[August 27, 2022](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?offering_id=SES852231&program_id=TMP12156&location_id=B210&filter=H4sIAAAAAAAEAG1Sy26DMBD8lz0TyTjKo_6HSj1wQ5Xl2Au1iu3INo1QlH-vHQKEphIHmNmdnZ3lCiJw1wC7gnEKgYHHVofoRdTOcidl7wM_YbwgWiggROFjqqKE0g05bOixKg-MHhghiUWrZu64IbSiW7Z7Sw_cCpAiYuv8wLUKwGzfdQV0To6DnjDXNOi1bXkczpjQ-rNYm8o4MFqAtrLrFXJthYz6B_ljhM5tjegC_lMzjVxKlBhyBmkqqslE1Aa5F7adHKgkvQJO2scvnuFX53rWOXvXemHuSA3V-0dJy90eUv83Dhfnl7Uno42QGBMafY_PPmaivs5XILvn3MtyTHrhS7ri9y_8-m7bO_837mXz2cLjeNropEJJ-i1c1qtH4XtHUrXCYN5UNBH91CSdyQkF5-x8AINjQGR87a2O4_ftFzCeWnefAgAA0)
+[Winter Sailing](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?program_id=TMP12156&offering_id=SES881610&location_id=B210) $20-$30 Jan 28, 2023 Sat @ 10:00 AM-4:00 PM (6 hours)Part 1: 3 hours Video intro and American Sailing Association simulator plugged into a TV for maximum benefit. Focus on points of sail, upwind sailing, and docking https://asa.com/sailing-challenge-app/
 
+Part 2: Model Boats
+
+Part 3:rig/unrig a boat in the parking lot. Weather permitting.
+
+Other topics available:
+Knots
+Cruising
+Racing
+Maintenance
+Local sailing programs
+Q and A
 
 Use the How to Sail link below for more information.
 
