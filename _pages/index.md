@@ -16,7 +16,7 @@ Join our [Facebook Group](https://www.facebook.com/groups/112029055498260){:targ
 
 [CCSA Race Videos](https://www.youtube.com/channel/UCMnuR6kvxxJyxbuaO639EBQ)
 
-[Dry Race Sign Up](https://www.signupgenius.com/go/10c094ca5ab28a0f4c34-dryrace#/)
+[Dry Race Sign Up](https://www.signupgenius.com/go/10c094ca5ab28a0f4c34-dryrace#/)link to sign up genius
 
 
 # Membership Forms
