@@ -18,7 +18,9 @@ Join our [Facebook Group](https://www.facebook.com/groups/112029055498260){:targ
 
 [Dry Race Sign Up](https://www.signupgenius.com/go/10c094ca5ab28a0f4c34-dryrace#/) link to sign up genius
 
-[Winter Sailing](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?program_id=TMP12156&offering_id=SES881610&location_id=B210) $20-$30 Jan 28, 2023 Sat @ 10:00 AM-4:00 PM (6 hours)Part 1: 3 hours Video intro and American Sailing Association simulator plugged into a TV for maximum benefit. Focus on points of sail, upwind sailing, and docking https://asa.com/sailing-challenge-app/
+[Winter Sailing at the Y](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?program_id=TMP12156&offering_id=SES881610&location_id=B210) $20-$30 Jan 28, 2023 Sat @ 10:00 AM-4:00 PM (6 hours) Edward jones YMCA.
+
+Part 1: 3 hours Video intro and American Sailing Association simulator plugged into a TV for maximum benefit. Focus on points of sail, upwind sailing, and docking https://asa.com/sailing-challenge-app/
 
 Part 2: Model Boats
 
