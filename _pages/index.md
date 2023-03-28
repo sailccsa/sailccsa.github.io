@@ -26,10 +26,11 @@ Steps to volunteer:
   <li>Select "Sign Up" next to either the Trailer or (RC) Race Committee position.</li>
   <li>Click "Save & Continue" to save your spot.</li>
   <li>Fill in your name, email, & phone number.</li>
-  <li>Click "Sign Up Now" to save your selection.</li>
-  <li>Check your email for a letter confirming your dates.</li>
+  <li>Click "Sign Up Now" to confirm your selection.</li>
+  <li>Check your inbox for an email confirming your dates.</li>
   <li>To change your dates or delete your spot select "edit my signup".</li>
-  <li>Thanks for volunteering, you are all set!</li>
+  <li>You are all set.</li>
+  <li>Remind your mates to signup too, thanks for volunteering!
 </ol>
 
 # Contact
