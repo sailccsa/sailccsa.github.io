@@ -10,7 +10,7 @@ permalink: /
 Join our mailing list at [Google Groups](https://groups.google.com/forum/#!forum/ccsa-members). 
 This is our primary method of communication.
 
-Join our !https://img.shields.io/endpoint?url=https://www.facebook.com/groups/112029055498260&message-Facebook-Group
+Join our ![Facebook Group](https://img.shields.io/endpoint?url=https://www.facebook.com/groups/112029055498260)
 
 # Membership Forms
 
