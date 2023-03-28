@@ -27,9 +27,9 @@ Steps to volunteer:
   <li>Click "Save & Continue" to save your spot.</li>
   <li>Fill in your name, email, & phone number.</li>
   <li>Click "Sign Up Now" to save your selection.</li>
-  </li>Check your email for a letter confirming your dates.</li>
-  </li>To change your dates or delete your spot select "edit my signup".</li>
-  <li>Thank you for volunteering, you are all set!</li>
+  <li>Check your email for a letter confirming your dates.</li>
+  <li>To change your dates or delete your spot select "edit my signup".</li>
+  <li>Thanks for volunteering, you are all set!</li>
 </ol>
 
 # Contact
