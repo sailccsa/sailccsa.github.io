@@ -19,7 +19,7 @@ Join our [Facebook Group](https://www.facebook.com/groups/112029055498260)
 # DRY RACE COMMITTEE
 Volunteer for this year's dry race committee! [Dry Race Sign Up](https://www.signupgenius.com/go/10c094ca5ab28a0f4c34-dryrace#/) 
 
-Steps to get signed up: 
+Steps to volunteer: 
         Click the SignUpGenius button above.
         Pick two Race days that work best for you!
         Select "Sign Up" next to either the Trailer or Race Committee (RC) position.
