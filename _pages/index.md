@@ -21,14 +21,15 @@ Volunteer for this year's dry race committee! [Dry Race Sign Up](https://www.sig
 
 Steps to volunteer: 
 <ol>
-  <li>Click the SignUpGenius button above.</li>
-  <li>Pick two Race days that work best for you!</li>
-  <li>Select "Sign Up" next to either the Trailer or Race Committee (RC) position.</li>
+  <li>Click the link above.</li>
+  <li>Pick two race days that work best for you!</li>
+  <li>Select "Sign Up" next to either the Trailer or (RC) Race Committee position.</li>
   <li>Click "Save & Continue" to save your spot.</li>
-  <li>Fill out the info form with your name, email, & phone number.</li>
-  <li>Click on "Sign Up Now" to save your spot.</li>
-  <li>You will immediately recieve a confiration email confirming your dates, to change your dates or delete your spot select "edit my signup".</li>
-  <li>Thanks, you are all set!</li>
+  <li>Fill in your name, email, & phone number.</li>
+  <li>Click "Sign Up Now" to save your selection.</li>
+  </li>Check your email for a letter confirming your dates.</li>
+  </li>To change your dates or delete your spot select "edit my signup".</li>
+  <li>Thank you for volunteering, you are all set!</li>
 </ol>
 
 # Contact
