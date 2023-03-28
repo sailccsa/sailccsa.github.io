@@ -19,7 +19,15 @@ Join our [Facebook Group](https://www.facebook.com/groups/112029055498260)
 # DRY RACE COMMITTEE
 Volunteer for this year's dry race committee! [Dry Race Sign Up](https://www.signupgenius.com/go/10c094ca5ab28a0f4c34-dryrace#/) 
 
-You will be redirected to SignUpGenius where you can pick which two Race days work best for you. Simply select "Sign Up" next to either the Trailer or Race Committee (RC) position to volunteer for that spot. Note that you can select multiple days at a time. Click "Save & Continue" to save your spot and fill out the info form with your name, email, & phone number. To save click on "Sign Up Now". You will immediately recieve a confiration email confirming your dates. You are all set! If you need to change these at any time select "edit my signup" from the email and delete your spot and pick a new one. 
+Steps to get signed up: 
+        Click the SignUpGenius button above.
+        Pick two Race days that work best for you!
+        Select "Sign Up" next to either the Trailer or Race Committee (RC) position.
+        Click "Save & Continue" to save your spot.
+        Fill out the info form with your name, email, & phone number.
+        Click on "Sign Up Now" to save your spot.
+        You will immediately recieve a confiration email confirming your dates, to change your dates or delete your spot select "edit my signup".
+        Thanks, you are all set! 
 
 # Contact
 If you have questions you can [Contact Us](https://www.sailccsa.com/about-us/contact) via Google Forms.
