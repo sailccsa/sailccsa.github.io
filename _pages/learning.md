@@ -20,7 +20,7 @@ Lessons are available at Creve Coeur Lake thru the Edward Jones Family YMCA May 
 
  [May 13, 2023 Group Sailing](https://operations.daxko.com/Online/4034/ProgramsV2/OfferingDetails.mvc?program_id=TMP12156&offering_id=SES902055&location_id=B210&filter=H4sIAAAAAAAEAG1SQW7DIBD8y55tCeM6Ubm1l3wgt6hCBK9dVAMR4EZWlL8X4pjEbSUf8Mzu7DDLBYTntgN2AW1bBAYOe-WDE0FZw62Uo_P8iOGMaKAAH4QLsYoSWpfkpaTbfVWxasMIiSyaNnNNSeie1qx5jR9cC5AiYG_dxFXrgR1g_7ZrGlrDRwGDlfO8O_VOK5Jw23XolOl5mE6YmIit_CUcGC1AGTmMLXJlhAzqG_l9mkptnRg8_lOzjH2UtGJKccSpGG9ixmEoICiN3AnTLw7aKL0CjsqFT55gvzRl5yrrnJztndBPyBdOZ-va3LQY7ITEENHgRnyen4nDJS-CNM_Rx13cwn7wFV3xmz_8drW6-sb_jvlx42xhdjworaIKJfFl2KR3gNJL6zAqGqFxeTE3hbRR0QV0S7e0OkXkrTV5AxrnhMh8HI0K8__1BxPcH8mrAgAA0)Group Sailing Events Saturday May 13, 2023 1pm to 7pm a small group sailing class for up to 6 people $140/180. The boats used will be sunfish so students must be able to get out of a pool from deep water without a ladder and capable of lifting the hulls on and off the trailer.
 
-Instructions to register as a non YMCA member.
+**Instructions to register as a non YMCA member**
 
 click register for the class you want
 
@@ -42,7 +42,7 @@ register for program
 
 search sail or use competitive swim category
 
-Use the How to Sail link below for more information.
+**Use the How to Sail link below for more information about other local programs.
 
 [Carlyle Sailing Association](https://csa-sailing.org){:target="_blank"}{:rel="noopener noreferrer"}
 
