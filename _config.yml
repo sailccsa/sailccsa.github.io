@@ -59,6 +59,13 @@ defaults:
       type: posts
     values:
       layout: single
+  # _newsletters
+  - scope:
+      path: ""
+      type: newsletters
+    values:
+      layout: single
+      
 collections:
   about-us:
     output: true
@@ -76,5 +83,8 @@ collections:
     output: true
     permalink: /:collection/:path
   sailing:
+    output: true
+    permalink: /:collection/:path
+  newsletters:
     output: true
     permalink: /:collection/:path
