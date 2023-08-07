@@ -1,7 +1,7 @@
 title: Creve Coeur Sailing Association
 description: Come Sail With Us!
 theme: minimal-mistakes-jekyll
-include: ["_pages", "_posts"]
+include: ["_pages", "_posts", "_newsletters"]
 encoding: "utf-8"
 url: "https://www.sailccsa.com"
 plugins:
