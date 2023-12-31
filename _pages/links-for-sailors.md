@@ -6,6 +6,8 @@ collection: links-for-sailors
 entries_layout: grid
 classes: wide
 ---
+[CCSA Bylaws](/bylaws/)
+
 [CCSA Race Videos](https://www.youtube.com/channel/UCMnuR6kvxxJyxbuaO639EBQ)
 
 [US Sailing Online Courses](https://www.ussailing.org/education/adult/first-sail/sailing-basics/) 
