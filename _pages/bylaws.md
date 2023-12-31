@@ -9,6 +9,7 @@ classes: wide
 ![ccsalogo](https://user-images.githubusercontent.com/83256703/151712998-70edad94-0eaa-429f-a5a1-942ba5baaf3c.png)
 
 **BY-LAWS OF CREVE COEUR SAILING ASSOCIATION, lNC.**
+
 *As amended by vote of the general membership November 2004.*
 
 # ARTICLE I NAME
@@ -20,11 +21,14 @@ A. The Association will promote sailing in a wholesome manner, providing the org
 # ARTICLE III MEMBERSHIP, DUES AND SPECIAL ASSESSMENTS
 A. Membership:
  1. Member must have submitted an approved application form and paid all dues as required by section B. of this article.
+
 B. Dues or assessments shall be voted at a board meeting and approved by a majority. Fiscal year is March 1 through February 28 (29). Dues shall be paid by May 15 of each year to maintain membership in the Association.
+
 C. Honorary Members shall consist of those having rendered extraordinary service to the association. They shall be elected by the Board and shall have the privileges of a member in good standing.
 
 # ARTICLE IV OFFICERS AND THEIR DUTIES
 A. The officers of the Association are designated Commodore, Vice-Commodore, Secretary, and Treasurer. The precedence of the officers is in the order shown above. Term of office for officers is one year.
+
 B. Duties
  1. Commodore: This officer will direct the day-to-day affairs of the Association in a manner consistent with the policies of the Board of Directors, and will enforce the Association regulations. The Commodore may make disbursements in the absence of the Treasurer, and shall be the Chairperson of the Board of Directors. The Commodore is ex-officio member of all committees.
  2. Vice-Commodore: This officer will assist the Commodore, and in the Commodore's absence, act in that officer's stead.
@@ -33,25 +37,39 @@ B. Duties
 
 # ARTICLE V BOARD OF DIRECTORS
 A. The Board of Directors is the governing body of the Creve Coeur Sailing Association, Incorporated, operating through its agents, the officers. The Board will consist of nine members, including the officers. Five board members, including one officer, shall constitute a quorum. All meetings of the Board of Directors will be called by the Commodore or any two other Board Members acting in unison. In the latter case, the Board Members' wishes will be made known to an officer of the association who will see to calling a special meeting of the Board. The Commodore shall be the Chairperson or the officer present next in precedence. All motions must pass by a simple majority of those board members present.
+
 B. Discretionary Powers: The Board of Directors may require committees and Officers to report to it. It has control over policy and finances.
+
 C. The Board of Directors shall report to the Association at its annual meeting.
+
 D. All property of the Association shall be vested in the Board of Directors as trustee for the members thereof, and they shall have power to act for and bind the club members, as their agent in all transactions relating to such property.
+
 E. The Board of Directors shall have the authority to fill vacancies in officers and their own membership, but only for the unexpired term.
+
 F. The Board of Directors shall not incur debt in excess of annual income, unless empowered by the general membership.
 
 # ARTICLE VI SPECIAL APPOINTMENTS
 A. The Officers and Board of Directors shall appoint the following permanent positions from the active membership directory; Newsletter Editor, Race Chair and Boatyard Coordinator and Social Chair. Each appointment shall report to the Officers and Board of Directors. These Special Appointments are critical to the continued growth of the CCSA and serve to improve the functionality of the Board of Directors without overloading the members in question. Special Appointments can be made from within the politic body or from the general membership. Special Appointments will be ratified by majority vote by the Officers and Board of Directors.
+
 B. No member appointed to the Special Duty shall incur any debt for the CCSA without specific authorization by budget or special approval from the Officers and Board of Director. All expenses approved and incurred will be documented and the receipts delivered to the Treasurer, as necessary.
+
 C. News-Letter Editor. The Newsletter Editor will solicit and publish events and topics on a quarterly basis or more often as needed to the general membership. The Newsletter Editor should contact the Officers, Directors, Fleet Captains and others for information in sufficient time to publish. The Newsletter Editor will be primarily responsible for the editorial content and format of the newsletter and should be somewhat skilled in managing a newsletter publishing program.
+
 D. Race Chair. The Race Chair will coordinate all Racing Events, Committees and provide timely results to the Officers, Directors and general membership. The Race Chair should also provide results to Fleet Captains as applicable, and provide the CCSA's representation to the USSA Portsmouth Committee for compilation in their database. The Race Chair will coordinate Dry and Wet Race Committees, using guidance in the CCSA Sailing Instructions.
+
 E. Boatyard Coordinator. The Boatyard Coordinator will serve as the person in charge of all events and issues surrounding the Boatyard. The Boatyard Coordinator will coordinate with the Secretary and Treasurer to ensure that all members storing boats are in compliance with the Bylaws and Contracts for Boatyard Storage. The Boatyard Coordinator will act as the central point of contact to outside agencies, with exception of "MD Trust" and successors, specific to issues regarding the Boatyard (such as vandalism, damage or abandoned vehicles) and keep the Officers and Board of Directors apprised as to issues that need resolution. The Treasurer will remain the primary point of contact with property owner "MD Trust" and any successors. The Boatyard Coordinator should not be receiving any membership dues unless they also fill the position of Secretary/Treasurer.
+
 F. Social Chair. The Social Chair will conduct all necessary functions to ensure that the following three events are scheduled and the membership is notified of any special requirements: Winter Social, Summer Picnic, Awards Ceremony and Annual Meeting. The Social Chair can solicit participation from the general membership to assist in corrdinating the events. The Social Chair will submit a request for expenses (either verbal or written) to the Board of Directors for approval prior to the event being planned.
+
 G. The Board of Directors may appoint additional temporary positions as needed.
 
 # ARTICLE VII MEETING
 A. The annual general meeting shall be held the second Sunday in November, however, the Board of Directors may elect a different date. The Secretary shall notify all members in writing two weeks prior to the meeting date.
+
 B. Special meetings of the Association membership may be called by the Board of Directors, or by written request of one-fourth of the membership. Special meetings will have power to act only on the specific business for which the special meeting was called. The Secretary will notify the membership at least one week prior to the date of the special meeting.
+
 C. The Committee Chairpersons will have authority to arrange their own committee meetings. The Commodore may call a meeting of any committee.
+
 D. Proxies may be submitted in writing for any meeting.
 
 # ARTICLE VIII NOMINATIONS
