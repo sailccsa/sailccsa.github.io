@@ -5,7 +5,7 @@ permalink: /
 ---
 ![ccsalogo](/assets/images/CCSA-Logo-Horizontal.png)
 
-# 2023 Season Dates are available now on the [Events](/events/) page. 
+# 2024 Season Dates are available now on the [Events](/events/) page. 
 
 Join our mailing list at [Google Groups](https://groups.google.com/forum/#!forum/ccsa-members). 
 This is our primary method of communication.
