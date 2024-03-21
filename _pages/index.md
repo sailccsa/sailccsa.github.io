@@ -14,7 +14,7 @@ Join our [Facebook Group](https://www.facebook.com/groups/112029055498260)
 
 # Membership Forms
 
-2023 membership forms are available on the [membership page](/learning/membership.html).
+2024 membership forms are available on the [membership page](/learning/membership.html).
 
 # Dry Race Committee
 Sign up for your required dry race committee spots! [Dry Race Sign Up](https://www.signupgenius.com/go/10C094CA5AB28A0F4C34-47146187-dryrace) 
