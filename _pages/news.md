@@ -6,7 +6,47 @@ collection: news
 entries_layout: grid
 classes: wide
 ---
-2021 Season Top Finishers
+**2023 Season Results**
+
+
+Red Fleet
+
+1st Jim Cox
+
+2nd Trish Ribaudo
+
+3rd Greg Marston
+
+
+Blue Fleet
+
+1st Eric Rosenbloom
+
+2nd Todd Merrill
+
+3rd Bob Gill
+
+
+**2022 Season Results**
+
+Red Fleet
+
+1st Jim Cox
+
+2nd Ed Humble
+
+3rd Trish Ribaudo
+
+
+Blue Fleet
+
+1st Todd Merrill
+
+2nd Todd Merrill
+
+3rd Bob Gill
+
+**2021 Season Top Finishers**
 
 Red Fleet
 
