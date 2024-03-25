@@ -11,6 +11,8 @@ classes: wide
 
 Follow our [event calendar](https://calendar.google.com/calendar/u/2?cid=MWZxbGxzZ2dscThuamc4dWxlNzgzdGxoZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to automatically see all our events!
 
+You can download a PDF of our events for printing [here](/assets/misc-files/CCSA-2024-Schedule.pdf).
+
 # 2024 Season
 
 * 03 FEB 2024 WINTER SOCIAL 5pm Concordia Church
