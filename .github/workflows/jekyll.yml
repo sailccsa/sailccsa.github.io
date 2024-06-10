@@ -21,7 +21,7 @@ jobs:
             ${{ runner.os }}-gems-
 
       - name: Build and deploy
-        uses: helaili/jekyll-action@v2
+        uses: helaili/jekyll-action@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
