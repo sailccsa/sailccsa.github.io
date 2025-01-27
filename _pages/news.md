@@ -6,6 +6,25 @@ collection: news
 entries_layout: grid
 classes: wide
 ---
+
+**2024 Season Results**
+
+Red Fleet
+
+1st Trish Ribaudo
+
+2nd Greg Walters
+
+3rd Ed Humble
+
+Blue FLeet
+
+1st Todd Merrill
+
+2nd Eric Rosenbloom
+
+3rd Bob Gill
+
 **2023 Season Results**
 
 
