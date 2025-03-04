@@ -16,7 +16,6 @@ Race Dates- Set Up starts at noon, races start at 2pm. No races start after 4pm 
 
 ![IMG_7617](https://user-images.githubusercontent.com/83256703/151710719-0f5f98c3-125c-47d2-b65c-16cfc0c2465a.jpg)
 
-![IMG_5410](https://github.com/sailccsa/sailccsa.github.io/blob/7cb500a480b02fbf78445cc36105cfe0edd290f1/assets/images/IMG_5410.JPG)
 **Current and Past Commodores**
 
 2023-2025 Todd Merrill
