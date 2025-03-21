@@ -17,7 +17,7 @@ Join our [Facebook Group](https://www.facebook.com/groups/112029055498260)
 2024 membership forms are available on the [membership page](/learning/membership.html).
 
 # Dry Race Committee
-Sign up for your required dry race committee spots! [Dry Race Sign Up](https://www.signupgenius.com/go/10C094CA5AB28A0F4C34-47146187-dryrace) 
+Sign up for your required dry race committee spots! [Dry Race Sign Up](https://www.signupgenius.com/go/10C094CA5AB28A0F4C34-49344457-dryrace) 
 
 ## Steps to volunteer: *We are using Sign Up Genius for scheduling. if you get asked for credit card info you have click an ad, do not enter any credit card info. Sign_up Genius ads are aggresive and confusing at times. 
 1. Click the link above.
