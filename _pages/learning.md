@@ -46,9 +46,7 @@ search sail or use competitive swim category
 
 [Carlyle Sailing Association](https://csa-sailing.org){:target="_blank"}{:rel="noopener noreferrer"}
 
-[Ozark Yacht Club](https://ozarkyachtclub.com){:target="_blank"}{:rel="noopener noreferrer"} 
 
-[Odyssey Sailing](https://www.odysseysailing.com){:target="_blank"}{:rel="noopener noreferrer"} 
 
 
 
