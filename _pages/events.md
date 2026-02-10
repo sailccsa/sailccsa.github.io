@@ -10,8 +10,7 @@ classes: wide
 
 Follow our [event calendar](https://calendar.google.com/calendar/u/2?cid=MWZxbGxzZ2dscThuamc4dWxlNzgzdGxoZjhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) to automatically see all our events!
 
-You can download a PDF of our events for printing <a href="/assets/misc-files/2026 SAILING ASSOCIATION CALENDAR.3.PDF">calendar</a>
-(assets/misc-files/2026 SAILING ASSOCIATION CALENDAR.3.PDF).
+You can download our events for printing [calendar PDF.](assets/misc-files/2026 SAILING ASSOCIATION CALENDAR.3.PDF)
 
 # 2026 Season
 
