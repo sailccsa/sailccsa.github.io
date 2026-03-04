@@ -14,6 +14,6 @@ Set Up starts at noon, races start at 2pm. No races start after 4pm unless other
 # Forms
 
 ## Membership
-<a href="/assets/misc-files/CCSA Membership 2025.pdf">Membership Form</a>
+<a href="/assets/misc-files/CCSA Membership 2026.pdf">Membership Form</a>
 ## Boatyard
-<a href="/assets/misc-files/CCSA Boatyard 2025.pdf">Boatyard Form</a>
+<a href="/assets/misc-files/CCSA Boatyard 2026.pdf">Boatyard Form</a>
