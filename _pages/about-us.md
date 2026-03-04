@@ -18,6 +18,8 @@ Race Dates- Set Up starts at noon, races start at 2pm. No races start after 4pm 
 
 **Current and Past Commodores**
 
+2026  Dwain Springer
+
 2023-2025 Todd Merrill
 
 2020-2022 Trish Ribaudo
