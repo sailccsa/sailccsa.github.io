@@ -9,7 +9,7 @@ classes: wide
 
 ** 2025 Fairwinds Newsletter **
 
-Look for the latest CCSA newsletter (work in progress)
+Look for the latest CCSA newsletter (assets/misc-files/Fairwinds newsletter 15th edition.htm)
 
 
 
