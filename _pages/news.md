@@ -9,6 +9,8 @@ classes: wide
 
 ** 2025 Fairwinds Newsletter **
 
+Look for the latest CCSA newsletter here  
+
 
 
 
