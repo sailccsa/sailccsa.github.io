@@ -7,6 +7,12 @@ entries_layout: grid
 classes: wide
 ---
 
+** 2025 Fairwinds Newsletter **
+
+
+
+
+
 **2025 Season Results**
 
 Red Fleet
