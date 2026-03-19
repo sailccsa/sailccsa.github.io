@@ -7,6 +7,22 @@ entries_layout: grid
 classes: wide
 ---
 
+**2025 Season Results**
+
+Red Fleet
+1st   Trish Ribaudo
+2nd   Greg Walters
+3rd   Greg Marston
+
+Blue Fleet
+1st   David Zale
+2nd   Bob Gill
+3rd   Charles Bell
+
+Congratulations to the 2025 Season Winners and well done to all participants
+
+
+
 **2024 Season Results**
 
 Red Fleet
