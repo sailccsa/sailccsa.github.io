@@ -6,7 +6,7 @@ collection: learning
 entries_layout: grid
 classes: wide
 ---
-Sailing Resources-Local on the water programs  -- not directly affiliated with Creve Couer Sailing Association>
+Sailing Resources-Local on the water programs  -- not directly affiliated with Creve Couer Sailing Association
 
 ![ymcalogo](https://user-images.githubusercontent.com/83256703/167182152-3c2e45e4-ba3e-4b3f-875c-cdf4e2163397.png)
 
