@@ -10,6 +10,9 @@ permalink: /
 Join our mailing list at [Google Groups](https://groups.google.com/forum/#!forum/ccsa-members). 
 This is our primary method of communication.
 
+# Creve Coeur Sailing Association Racing Rules of Sailing, go to the [Sailing](sailing/) page.
+This is our Association's rules, based on the US Sailing Racing Rules of Sailing 2025-2028.
+
 Join our [Facebook Group](https://www.facebook.com/groups/112029055498260)
 
 # Membership Forms
