@@ -9,3 +9,5 @@ classes: wide
 Check out the season's full results.
 
 Use the racing rules diagram to learn about right of way in a variety of situations.
+
+Micro-edition of the 2023-2028 Racing Rules of Sailing
