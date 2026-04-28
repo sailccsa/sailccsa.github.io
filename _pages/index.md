@@ -8,7 +8,7 @@ permalink: /
 # 2026 Season Dates are available now on the [Events](/events/) page. 
 
 Join our mailing list at [Google Groups](https://groups.google.com/forum/#!forum/ccsa-members). 
-This is our primary method of communication.
+This is our primary method of communication.  For access, please email one of the administrators, include your email address, firstname and lastname.  email to ccsa-members+manager@googlegroups.com; one of the admins will reach out to you to confirm the details.  
 
 # Creve Coeur Sailing Association Racing Rules of Sailing, go to the [Sailing](sailing/) page.
 This is our Association's rules, based on the US Sailing Racing Rules of Sailing 2025-2028.
