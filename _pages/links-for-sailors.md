@@ -14,8 +14,8 @@ classes: wide
 
 [US Sailing Online Courses](https://www.ussailing.org/education/adult/first-sail/sailing-basics/) 
 
-[ASA Free online course](https://asa.com/free-online-sailing-course/) 
+[ASA Free online course](https://americansailing.com/free-online-sailing-course/) 
 
-[ASA Sailing Challenge Simulator App](https://asa.com/sailing-challenge-app/)
+[ASA Sailing Challenge Simulator App](https://americansailing.com/apps/sailing-challenge-app/?ad=asa_footer)
 
 [Carlyle Sailing Association](https://csa-sailing.org)
