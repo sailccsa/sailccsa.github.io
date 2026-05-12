@@ -21,27 +21,6 @@ Lessons are available at Creve Coeur Lake thru the Edward Jones Family YMCA May 
 
 Questions? Please contact [Trish Ribaudo](https://docs.google.com/forms/d/e/1FAIpQLSewxql6tC-BJRPzzJHVEhvWrzkF_BNU1enRDa3O97arOOfvqQ/viewform?usp=sf_link)
 
-**Instructions to register as a non YMCA member**
-
-click register for the class you want
-
-enter email address
-
-sign up for an account if you don't already have one
-
-select Edward Jones YMCA location
-
-select non member at bottom 
-
-enter your information
-
-click next
-
-accept and sign user agreement
-
-register for program
-
-search sail or use competitive swim category
 
 **Use the How to Sail link below for more information about other local programs.
 
