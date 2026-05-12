@@ -19,7 +19,3 @@ classes: wide
 [ASA Sailing Challenge Simulator App](https://asa.com/sailing-challenge-app/)
 
 [Carlyle Sailing Association](https://csa-sailing.org)
-
-[Ozark Yacht Club](https://ozarkyachtclub.com)
-
-[Odyssey Sailing](https://www.odysseysailing.com) 
