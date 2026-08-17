@@ -1,6 +1,6 @@
 bundle exec jekyll serve --livereload
 
-git commit -a -m 'race results'
+git push
 
 ---
 layout: none
